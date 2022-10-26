@@ -1,0 +1,44 @@
+{
+  "insumos": [
+    {
+      "id": "1",
+      "título": "torre",
+      "precio": 5000,
+      "imagen": "https://imgs.search.brave.com/PaycuzCDBSjWgR3WnQI9ewzoHP7GEUSPRH_2BowTNaw/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/cHJlY2lvLWNhbGlk/YWQuY29tLmFyL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIxLzA0/L01JTkktUEMtREVM/TC1PcHRpcGxleC0z/MDcwLVNGRi0xLmpw/Zw",
+      "categoria": "tecnologico",
+      "descripción": "PC con tarjeta gráfica GTX3070"
+    },
+    {
+      "id": "2",
+      "título": "escritorio",
+      "precio": 3400,
+      "imagen": "https://imgs.search.brave.com/nslCaQvFNnNk4y0lSVkZn2ZXvGeYzNNRfyOOndxIzDg/rs:fit:1200:900:1/g:ce/aHR0cHM6Ly9odHRw/Mi5tbHN0YXRpYy5j/b20vZXNjcml0b3Jp/by1taW5pbWFsaXN0/YS10aXBvLWlrZWEt/Y29sb3ItYmxhbmNv/LURfTlFfTlBfNDQ0/NDE1LU1MTTI1MjMw/MDc0MDgzXzEyMjAx/Ni1GLmpwZw",
+      "categoria": "mobiliario",
+      "descripción": "Escritorio blanco de maderia lisa"
+    },
+    {
+      "id": "3",
+      "título": "hojas",
+      "precio": 400,
+      "imagen": "https://imgs.search.brave.com/ghcESRXhqlLpVjKINS-Qg7h7xQBIvQp6gdlFFA4b8ss/rs:fit:512:512:1/g:ce/aHR0cHM6Ly93d3cu/dG9wdGVjbm91eS5j/b20vaW1ncy9wcm9k/dWN0b3MvcHJvZHVj/dG9zMzJfMjg2MzAu/anBn",
+      "categoria": "papeleria",
+      "descripción": "Block de hojas A4 de 400 hojas"
+    },
+    {
+      "id": "4",
+      "título": "cartucho de tinta",
+      "precio": 400,
+      "imagen": "https://imgs.search.brave.com/FpQ1axsz4T1T7QcSG8CTTktZUc97Aq-XZkf7Q6mcX4g/rs:fit:800:800:1/g:ce/aHR0cHM6Ly93d3cu/Y3FuZXRjci5jb20v/NTI4NzMtdGhpY2ti/b3hfZGVmYXVsdC9j/YXJ0dWNoby1kZS10/aW50YS1ocC02NjJ4/bC1uZWdyby1vcmln/aW5hbC02NW1sLmpw/Zw",
+      "categoria": "consumible",
+      "descripción": "Cartucho de tinta negra para impresora"
+    },
+    {
+      "id": "5",
+      "titulo": "Lapiz 6b",
+      "precio": 30,
+      "imagen": "urlIMG",
+      "categoria": "cosumible",
+      "descripcion": "Lapiz 6b para dibujo"
+    }
+  ]
+}
